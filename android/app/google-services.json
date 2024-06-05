@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "862423877258",
+    "project_id": "flutter-storage-learning",
+    "storage_bucket": "flutter-storage-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862423877258:android:f3feebc4c69477a7280f73",
+        "android_client_info": {
+          "package_name": "com.example.flutter_storage_learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN13sLHF_BlmVISmxC1WwwFpFJuJH3akU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
